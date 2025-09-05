@@ -11,3 +11,8 @@ The project follows the folllowing steps:
 ## Files
 
 - `TicTacToe.ipynb` - A Jupyter Notebook
+
+## Libraries Used
+```python
+random
+```
