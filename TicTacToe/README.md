@@ -5,7 +5,7 @@ The TicTacToe notebook demonstrates how to train a `Reinforcement Learning (RL)`
 ## Project Structure
 The project follows the folllowing steps:
 - Setting up the Game Environment by defining functions `display_board`, `check_win`, `get_possible_moves`, `is_game_over` and an agent class.
-- Training the agent by playing a large number of games against itself.
+- Training the agent by playing a large number of games against a copy of itself.
 - Testing the agent by playing a game against it.
 
 ## Files
